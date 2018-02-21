@@ -1,0 +1,3 @@
+[submodule "amped/plugins"]
+	path = amped/plugins
+	url = https://github.com/abbreviate/amped-plugins
